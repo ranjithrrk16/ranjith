@@ -1,2 +1,2 @@
 # ranjith
-ranjith.github
+ranjith_github

@@ -1,6 +1,6 @@
 <img width="1084" height="322" alt="image" src="https://github.com/user-attachments/assets/8a611acf-6255-4eda-bbac-d22b4b035c04" />
 
-I am Ranjith 👋
+I'm Ranjith Katanguri 👋
 [Linkedin Badge](https://www.linkedin.com/in/ranjith-katanguri-s1987/) Gmail Badge
 
 🎯 Portfolio website: Portfolio

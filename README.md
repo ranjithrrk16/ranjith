@@ -5,7 +5,11 @@ I'm Ranjith Katanguri 👋
 💬 Ask me about anything, I always respond 😄
 📬 How to reach me: Let's get in touch! 
 Languages and Tools:
-# My Project
+# My Projects
+- Azure repos migration from ADO to GIThub.
+- Application migration from openshift containers to AWS EKS
+- AWS cloud implementation in multiple regions
+- CI CD pipeline setup with integrating monitoring tools
 
 
 ## Popular Development Tools

@@ -7,6 +7,20 @@ Linkedin Badge Gmail Badge
 💬 Ask me about anything, I am happy to help 😄
 📬 How to reach me: Let's get in touch!
 Languages and Tools:
+# My Project
+
+## Popular Development Tools
+
+### Git
+![Git Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg)
+Git is a distributed version control system used to track changes in source code during software development.
+
+### VSCode
+![VSCode Logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Visual_Studio_Code_1.0_icon.png)
+
+### Jenkins
+![Jenkins Logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/Jenkins_logo.png)
+
 HTML5
 
 HTML5

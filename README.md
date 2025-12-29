@@ -10,11 +10,11 @@ Languages and Tools:
 
 ## Popular Development Tools
 
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/5f39982a-832b-468e-a885-eabd2a0a12f5" />
+<img width="101" height="101" alt="image" src="https://github.com/user-attachments/assets/5f39982a-832b-468e-a885-eabd2a0a12f5" />
 
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/e3babbe1-5c17-4f83-8eab-c6a50fa032c7" />
+<img width="101" height="101" alt="image" src="https://github.com/user-attachments/assets/e3babbe1-5c17-4f83-8eab-c6a50fa032c7" />
 
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/a7d28f87-70bd-4e75-a601-e98b6f794cd8" />
+<img width="101" height="101" alt="image" src="https://github.com/user-attachments/assets/a7d28f87-70bd-4e75-a601-e98b6f794cd8" />
 
 <img width="151" height="148" alt="image" src="https://github.com/user-attachments/assets/69764a2a-4f52-4560-88f4-f770f8b5f1b0" />
 

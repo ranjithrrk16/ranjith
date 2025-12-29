@@ -11,7 +11,8 @@ Languages and Tools:
 
 ## Popular Development Tools
 
-https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-Logo.svg
+<img width="160" height="148" alt="image" src="https://github.com/user-attachments/assets/b1418465-1446-4c5e-8a75-3fd4fb5a2be5" />
+
 
 https://upload.wikimedia.org/wikipedia/commons/2/2f/Visual_Studio_Code_1.0_icon.png
 

@@ -44,3 +44,10 @@ Languages and Tools:
 <img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/7c420059-94ac-4b51-9e44-311ddd61ddb2" />
 
 Keep learning new skills ✍️
+
+🏆 Achievements & Certifications
+RHCE - Redhat Certified Engineer
+RHCSA - Red Hat Certified System Administrator
+AWS Certified Cloud Solutions Architect - Associate
+Certified Kubernetes Administrator - CKA
+

@@ -34,8 +34,6 @@ Languages and Tools:
 
 <img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/41bc5a8d-4b29-4e24-abe0-43fefa8a2289" />
 
-<img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/f763c2a9-3b1a-4d8d-95c1-b3d1ae1db0d4" />
-
 <img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/7c420059-94ac-4b51-9e44-311ddd61ddb2" />
 
 Keep learning new skills ✍️

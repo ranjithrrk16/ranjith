@@ -14,15 +14,15 @@ Languages and Tools:
 
 <img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/e3babbe1-5c17-4f83-8eab-c6a50fa032c7" />
 
-<img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/a7d28f87-70bd-4e75-a601-e98b6f794cd8" />
+<img width="90" height="88" alt="image" src="https://github.com/user-attachments/assets/a7d28f87-70bd-4e75-a601-e98b6f794cd8" />
 
-<img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/69764a2a-4f52-4560-88f4-f770f8b5f1b0" />
+<img width="90" height="88" alt="image" src="https://github.com/user-attachments/assets/69764a2a-4f52-4560-88f4-f770f8b5f1b0" />
 
 <img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/048dc365-25b0-47a5-99ed-345d56791a23" />
 
 <img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/3046c1f0-6b91-4e02-b8d7-b4a76d775ee7" />
 
-<img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/8ef427ed-12a1-4285-ae78-daa8abb0bf9b" />
+<img width="90" height="88" alt="image" src="https://github.com/user-attachments/assets/8ef427ed-12a1-4285-ae78-daa8abb0bf9b" />
 
 <img width="90" height="92" alt="image" src="https://github.com/user-attachments/assets/eb59e07d-6bc2-4b2b-8d83-eed93a35ab0d" />
 

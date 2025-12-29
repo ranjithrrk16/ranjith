@@ -1,2 +1,34 @@
-# ranjith
-ranjith_github
+I am Ranjith 👋
+Linkedin Badge Gmail Badge
+
+🎯 Portfolio website: Portfolio
+💬 Ask me about anything, I am happy to help 😄
+📬 How to reach me: Let's get in touch!
+Languages and Tools:
+HTML5
+
+HTML5
+
+HTML5
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+HTML5
+
+CSS3
+
+HTML5
+
+Visual Studio Code
+
+
+
+Things I love:
+Python 
+Backend Development ✍️

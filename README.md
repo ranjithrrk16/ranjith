@@ -1,3 +1,5 @@
+<img width="1084" height="322" alt="image" src="https://github.com/user-attachments/assets/8a611acf-6255-4eda-bbac-d22b4b035c04" />
+
 I am Ranjith 👋
 Linkedin Badge Gmail Badge
 
